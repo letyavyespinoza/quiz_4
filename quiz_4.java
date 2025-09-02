@@ -11,7 +11,12 @@ package logic;
 public class quiz_4 {
 
     public void quiz_4() {
-        System.out.println("Hi");
+        System.out.println("Hola");
+       forfor (int i = 1; i <= 5; i++) {
+
+           
+       }
+    
     }
     
     
